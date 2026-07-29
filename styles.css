@@ -1,0 +1,30 @@
+body { 
+  font-family: sans-serif; 
+  text-align: center; 
+  background: #f4f4f9; 
+  padding-top: 50px; 
+}
+.container { 
+  background: white; 
+  padding: 30px; 
+  border-radius: 10px; 
+  box-shadow: 0 4px 8px rgba(0,0,0,0.1); 
+  display: inline-block; 
+}
+.idea-box { 
+  margin: 20px 0; 
+  padding: 15px; 
+  border: 2px dashed #333; 
+  font-weight: bold; 
+}
+button { 
+  background: #007bff; 
+  color: white; 
+  border: none; 
+  padding: 10px 20px; 
+  border-radius: 5px; 
+  cursor: pointer; 
+}
+button:hover { 
+  background: #0056b3; 
+}
